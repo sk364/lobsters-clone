@@ -1,0 +1,36 @@
+{
+  "totalPages": 3,
+  "results": [
+    {
+        "id": 1,
+        "title": "Towards End-to-End Encryption for Direct Messages in the Fediverse",
+        "postedAt": "Tue Nov 15 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "source": "soatok.blog",
+        "numUpvotes": 4,
+        "tags": [
+            {
+                "id": "programming",
+                "label": "programming"
+            },
+            {
+              "id": "security",
+              "label": "security"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You",
+        "postedAt": "Tue Nov 22 2022 17:06:00 GMT+0530 (India Standard Time)",
+        "source": "emily.id.au",
+        "numUpvotes": 40,
+        "tags": [
+            {
+                "id": "ask",
+                "label": "ask",
+                "tagType": "question"
+            }
+        ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.layout {
+  margin: 1em 0 0.5rem 0;
+  padding: 5px 10px;
+
+  .layout-nav-bar {
+    display: flex;
+    gap: 8px;
+
+    .nav-item {
+      cursor: pointer;
+      color: rgba(51, 51, 51, 67%);
+      font-size: 10pt;
+      font-weight: bold;
+      line-height: 18px;
+
+      &.logo {
+        background-color: #500000;
+      }
+
+      &.login {
+        margin-left: auto;
+        margin-right: 0.25em;
+      }
+    }
+
+  }
+}

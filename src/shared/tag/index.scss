@@ -1,0 +1,14 @@
+.tag {
+  border-radius: 5px;
+  padding: 0px 0.4em 1px 0.4em;
+
+  &.warning {
+    background-color: #fffcd7;
+    border: 1px solid #d5d458;
+  }
+
+  &.alert {
+    background-color: #f9ddde;
+    border: 1px solid #f0b2b8;
+  }
+}

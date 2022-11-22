@@ -1,0 +1,32 @@
+{
+    "totalPages": 3,
+    "results": [
+        {
+            "id": 1,
+            "title": "Always use [closed, open) intervals",
+            "postedAt": "Tue Nov 22 2022 00:00:00 GMT+0530 (India Standard Time)",
+            "source": "google.com",
+            "numUpvotes": 40,
+            "tags": [
+                {
+                    "id": "prog",
+                    "label": "prog"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Improving Robustness of TCM-based Robust Steganography with Variable Robustness Cost",
+            "postedAt": "Tue Nov 22 2022 17:06:00 GMT+0530 (India Standard Time)",
+            "source": "google.com",
+            "numUpvotes": 40,
+            "tags": [
+                {
+                    "id": "ask",
+                    "label": "ask",
+                    "tagType": "question"
+                }
+            ]
+        }
+    ]
+}

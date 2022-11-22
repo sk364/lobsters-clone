@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lobsters/static/css/main.a191adf1.css",
+    "main.js": "/lobsters/static/js/main.7f12f652.js",
+    "index.html": "/lobsters/index.html",
+    "main.a191adf1.css.map": "/lobsters/static/css/main.a191adf1.css.map",
+    "main.7f12f652.js.map": "/lobsters/static/js/main.7f12f652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a191adf1.css",
+    "static/js/main.7f12f652.js"
+  ]
+}

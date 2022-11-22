@@ -2,7 +2,7 @@
   "name": "news-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sk364.github.io/lobsters",
+  "homepage": "https://sk364.github.io/lobsters-clone",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
     "@testing-library/jest-dom": "^5.16.5",
